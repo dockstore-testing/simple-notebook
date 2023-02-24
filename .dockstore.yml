@@ -1,3 +1,4 @@
 version: 1.2
 notebooks:
   - path: /notebook.ipynb
+    image: quay.io/seqware/seqware_full/1.1
